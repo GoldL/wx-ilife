@@ -1,7 +1,7 @@
 <template>
   <div class="detail-box">
     <div class="title">家庭仔骨牛排</div>
-    <video width="100%" height="100%" src="http://ugcws.video.gtimg.com/g05609n3y38.p712.1.mp4?sdtfrom=v1010&guid=4c488a4164128cb0fca01729a21a5620&vkey=F814D0B91EDDDE98883F327F2832F63A74906F8DC38CFB85BABA7C57B9ED94BDA4A31E3FC60936D25EF2CF3FCBEB554C8CAA4826E2433FB22EE0A3C1C4E7069DE39ACB7077E1F371353CFBE667B1223BABC69A9442351A1F7592627862F425CAEBBF67AEF14E964E643B712AFE62FAC47EDBBB4A2AF7D2B7" poster="../assets/detail-img.png" preload="none" controls="controls"></video>
+    <video width="100%" height="100%" src="http://p6rw0kp62.bkt.clouddn.com/p01440nfwjn.p702.1.mp4" poster="../assets/detail-img.png" preload="none" controls="controls"></video>
     <div class="content">
       <img src="../assets/avatar.png"  @click="toMy" width="70px" height="70px" alt="">
       <div  @click="toMy">神厨小圣</div>
